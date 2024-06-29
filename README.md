@@ -20,8 +20,8 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Java</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" /></a>
-      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">TypeScript</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="70" alt="Next JS" /></a>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Next JS</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://laravel.com/docs/8.x"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="70" alt="Laravel" /></a>
