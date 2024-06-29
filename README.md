@@ -11,9 +11,11 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 ### Backend
 <table style="width: 100%; table-layout: auto;">
   <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
-    <td style="text-align: center; width: 70px; padding: 5px;background-color: black; color: white; font-weight: bold;">
-      <a href="https://www.php.net/manual/es/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" /></a>
-      <p style="">PHP</p>
+    <td style="width: 70px; padding: 5px;">
+      <div style="text-align: center; background-color: black; color: white; font-weight: bold;">
+        <a href="https://www.php.net/manual/es/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" /></a>
+        <p>PHP</p>
+      </div>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" /></a>
