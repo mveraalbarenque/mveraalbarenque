@@ -13,33 +13,33 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
   <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
     <td style="text-align: center; width: 70px;">
       <a href="https://www.php.net/manual/es/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" /></a>
-      <p  style="text-align: center;">PHP</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">PHP</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" /></a>
-      <p  style="text-align: center;">Java</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Java</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" /></a>
-      <p  style="text-align: center;">TypeScript</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">TypeScript</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://laravel.com/docs/8.x"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="70" alt="Laravel" /></a>
-      <p  style="text-align: center;">Laravel</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Laravel</p>
     </td>
   </tr>
   <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
     <td style="text-align: center; width: 70px;">
       <a href="https://codeigniter.com/user_guide/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="70" alt="CodeIgniter" /></a>
-      <p  style="text-align: center;">CodeIgniter</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">CodeIgniter</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="MySQL" /></a>
-      <p  style="text-align: center;">MySQL</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">MySQL</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
-      <p  style="text-align: center;">Linux (CentOS)</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Linux (CentOS)</p>
     </td>
   </tr>
 </table>
@@ -49,29 +49,29 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
   <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
     <td style="text-align: center; width: 70px;">
       <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" /></a>
-      <p  style="text-align: center;">JavaScript</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">JavaScript</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" /></a>
-      <p  style="text-align: center;">TypeScript</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">TypeScript</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5" /></a>
-      <p  style="text-align: center;">HTML5</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">HTML5</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3" /></a>
-      <p  style="text-align: center;">CSS3</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">CSS3</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; width: 70px;">
       <a href="https://es.reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React.js" /></a>
-      <p  style="text-align: center;">React.js</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">React.js</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://es.vuejs.org/v2/guide/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="70" alt="Vue.js" /></a>
-      <p  style="text-align: center;">Vue.js</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Vue.js</p>
     </td>
   </tr>
 </table>
@@ -81,25 +81,25 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
   <tr>
     <td style="text-align: center; width: 70px;">
       <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" /></a>
-      <p  style="text-align: center;">Git</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Git</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" /></a>
-      <p  style="text-align: center;">GitHub</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">GitHub</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
-      <p  style="text-align: center;">Docker</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Docker</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; width: 70px;">
       <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="70" alt="GraphQL" /></a>
-      <p  style="text-align: center;">GraphQL</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">GraphQL</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://developer.mozilla.org/es/docs/Glossary/REST"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="70" alt="REST API" /></a>
-      <p  style="text-align: center;">API Rest</p>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">API Rest</p>
     </td>
   </tr>
 </table>
