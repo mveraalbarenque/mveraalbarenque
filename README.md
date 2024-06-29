@@ -12,18 +12,6 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 ### Backend
 <table style="width: 100%; table-layout: auto;">
   <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
-    <td style="text-align: center; width: 70px; padding: 5px;background-color: black; color: white; font-weight: bold;">
-      <a href="https://www.php.net/manual/es/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" /></a>
-      <p>PHP</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Java</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="70" alt="Next JS" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Next JS</p>
-    </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://laravel.com/docs/8.x"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="70" alt="Laravel" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Laravel</p>
@@ -47,15 +35,7 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 
 ### Frontend
 <table style="width: 100%; table-layout: auto;">
-  <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
-    <td style="text-align: center; width: 70px;">
-      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">JavaScript</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">TypeScript</p>
-    </td>
+  <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">    
     <td style="text-align: center; width: 70px;">
       <a href="https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">HTML5</p>
@@ -75,9 +55,30 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
   </tr>
 </table>
 
-### Misc
+
+### FullStack
 <table style="width: 100%; table-layout: auto;">
   <tr>
+    <td style="text-align: center; width: 70px; padding: 5px;background-color: black; color: white; font-weight: bold;">
+      <a href="https://www.php.net/manual/es/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" /></a>
+      <p>PHP</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Java</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="70" alt="Next JS" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Next JS</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">JavaScript</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">TypeScript</p>
+    </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Git</p>
@@ -91,12 +92,19 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="70" alt="GraphQL" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GraphQL</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
       <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux (CentOS)</p>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux</p>
+    </td>
+  </tr>
+</table>
+
+
+### Misc
+<table style="width: 100%; table-layout: auto;">
+  <tr>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Saas</p>
     </td>
   </tr>
 </table>
