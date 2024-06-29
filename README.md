@@ -80,14 +80,6 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">TypeScript</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Git</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GitHub</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
       <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
     </td>
@@ -102,6 +94,14 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 ### Misc
 <table style="width: 100%; table-layout: auto;">
   <tr>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Git</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GitHub</p>
+    </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Saas</p>
