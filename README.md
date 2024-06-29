@@ -107,10 +107,8 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 
 ## 📫 Contáctame
 
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [tu-linkedin](https://www.linkedin.com/in/tu-linkedin/)
-- **Twitter:** [tu-twitter](https://twitter.com/tu-twitter)
-
+- **Email:** [mveraalbarenque@gmail.com](mailto:mveraalbarenque@gmail.com)
+- **LinkedIn:** [mveraalbarenque](https://www.linkedin.com/in/mveraalbarenque)
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
