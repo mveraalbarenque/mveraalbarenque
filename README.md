@@ -85,14 +85,6 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">TypeScript</p>
     </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux</p>
-    </td>
   </tr>
 </table>
 
@@ -111,6 +103,14 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
     <td style="text-align: center; width: 70px;">
       <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Saas</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux</p>
     </td>
   </tr>
 </table>
