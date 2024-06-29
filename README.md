@@ -28,8 +28,6 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <a href="https://laravel.com/docs/8.x"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="70" alt="Laravel" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Laravel</p>
     </td>
-  </tr>
-  <tr style="padding: 10px; border: 1px solid #ddd; width: 100%;">
     <td style="text-align: center; width: 70px;">
       <a href="https://codeigniter.com/user_guide/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="70" alt="CodeIgniter" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">CodeIgniter</p>
