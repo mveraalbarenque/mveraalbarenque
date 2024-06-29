@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hi! I`m Marcos Vera 👋
 
 ### Desarrollador de Sistemas
 
@@ -19,7 +19,8 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
     <td>TypeScript</td>
   </tr>
   <tr>
-    <td><a href="https://laravel.com/docs/8.x"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" /></a></td>
+    <td><a href="https://laravel.com/docs/8.x">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /></a></td>
     <td>Laravel</td>
     <td><a href="https://codeigniter.com/user_guide/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" alt="CodeIgniter" /></a></td>
     <td>CodeIgniter</td>
