@@ -30,6 +30,12 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       </a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">PostGreSQL</p>
     </td>
+    <td>
+      <a href="https://www.mongodb.com/docs/atlas">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">MongoDB</p>
+      </a>
+    </td>
   </tr>
 </table>
 
