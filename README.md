@@ -38,8 +38,10 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">MySQL</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
-      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Linux (CentOS)</p>
+      <a href="https://developer.mozilla.org/es/docs/Glossary/REST">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="70" alt="PostGreSQL"  />
+      </a>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">PostGreSQL</p>
     </td>
   </tr>
 </table>
@@ -98,12 +100,8 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
       <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">GraphQL</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://developer.mozilla.org/es/docs/Glossary/REST">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="70" alt="PostGreSQL"  />
-          </a>
-      <div style="background-color: black; color: white; font-weight: bold; padding: 5px;">
-        <p>API Rest</p>
-      </div>
+      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
+      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">Linux (CentOS)</p>
     </td>
   </tr>
 </table>
