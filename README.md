@@ -99,7 +99,9 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://developer.mozilla.org/es/docs/Glossary/REST"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="70" alt="REST API" /></a>
-      <p style="background-color: black; color: white; font-weight: bold; padding: 5px;">API Rest</p>
+      <div style="background-color: black; color: white; font-weight: bold; padding: 5px;">
+        <p>API Rest</p>
+      </div>
     </td>
   </tr>
 </table>
