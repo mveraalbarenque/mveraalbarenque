@@ -2,7 +2,7 @@
 
 ### System Developer.
 
-With more than 10 years of experience in systems development, I specialize in creating efficient and scalable solutions. Throughout my career, I have worked with a wide range of programming tools and languages, both frontend and backend.
+<p>With more than 10 years of experience in systems development, I specialize in creating efficient and scalable solutions. Throughout my career, I have worked with a wide range of programming tools and languages, both frontend and backend.</p>
 
 ---
 
@@ -91,29 +91,6 @@ With more than 10 years of experience in systems development, I specialize in cr
   </tr>
 </table>
 
-
-### Misc
-<table style="width: 100%; table-layout: auto;">
-  <tr>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Git</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GitHub</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
-      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux</p>
-    </td>
-  </tr>
-</table>
-
 ### Styles
 <table style="width: 100%; table-layout: auto;">
   <tr>
@@ -139,6 +116,29 @@ With more than 10 years of experience in systems development, I specialize in cr
     </td>
   </tr>
 </table>
+
+### Misc
+<table style="width: 100%; table-layout: auto;">
+  <tr>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Git</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GitHub</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux</p>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
