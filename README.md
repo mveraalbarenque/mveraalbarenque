@@ -30,10 +30,8 @@
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">PostGreSQL</p>
     </td>
     <td>
-      <a href="https://www.mongodb.com/docs/atlas">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-      </a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">MongoDB</p>
+      <a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="70" alt="Node JS" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Node JS</p>
     </td>
   </tr>
 </table>
@@ -77,7 +75,7 @@
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Java</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="70" alt="Next JS" /></a>
+      <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="70" alt="Next JS" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Next JS</p>
     </td>
     <td style="text-align: center; width: 70px;">
@@ -95,23 +93,23 @@
 <table style="width: 100%; table-layout: auto;">
   <tr>
     <td style="text-align: center; width: 70px;">
-      <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="70" alt="MUI" /></a>
+      <a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="70" alt="MUI" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">MUI</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="70" alt="BootStrap" /></a>
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="70" alt="BootStrap" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">BootStrap</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" height="70" alt="AntD" /></a>
+      <a href="https://ant.design"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" height="70" alt="AntD" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">AntD</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="70" alt="TailWind" /></a>
+      <a href="https://tailwindcss.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="70" alt="TailWind" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">TailWind</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
+      <a href="https://sass-lang.com/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Saas</p>
     </td>
   </tr>
@@ -125,15 +123,15 @@
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Git</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GitHub</p>
+      <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="70" alt="Redux" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Redux</p>
     </td>
     <td style="text-align: center; width: 70px;">
       <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://www.centos.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
+      <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="Linux" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Linux</p>
     </td>
   </tr>
