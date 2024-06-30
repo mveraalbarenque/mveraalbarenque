@@ -1,12 +1,12 @@
 ## <h2 style="text-align: center; height: 70px; background-color: black  !important; color: white !important;">¡Hi! I`m Marcos Vera 👋 </h2>
 
-### Desarrollador de Sistemas
+### System Developer.
 
-Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo en crear soluciones eficientes y escalables. A lo largo de mi carrera, he trabajado con una amplia gama de herramientas y lenguajes de programación, tanto en el frontend como en el backend.
+With more than 10 years of experience in systems development, I specialize in creating efficient and scalable solutions. Throughout my career, I have worked with a wide range of programming tools and languages, both frontend and backend.
 
 ---
 
-## 🛠️ Mis Skills
+## 🛠️ My Skills
 
 ### Backend
 <table style="width: 100%; table-layout: auto;">
@@ -116,11 +116,11 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 
 ---
 
-## 📫 Contáctame
+## 📫 Contact me
 
 - **Email:** [mveraalbarenque@gmail.com](mailto:mveraalbarenque@gmail.com)
 - **LinkedIn:** [mveraalbarenque](https://www.linkedin.com/in/mveraalbarenque)
 - **Slack:** [mveraalbarenque] (https://devmvera.slack.com/team/U07AFKFFP60)
 ---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
+Thank you for visiting my profile! If you have any questions or want to collaborate on a project, don't hesitate to contact me.
