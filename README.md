@@ -1,4 +1,4 @@
-## <h2>¡Hi! I`m Marcos Vera 👋 </h2>
+## <h2 style="text-align: center; height: 70px; background-color: black  !important; color: white !important;">¡Hi! I`m Marcos Vera 👋 </h2>
 
 ### Desarrollador de Sistemas
 
@@ -120,6 +120,7 @@ Con más de 10 años de experiencia en el desarrollo de sistemas, me especializo
 
 - **Email:** [mveraalbarenque@gmail.com](mailto:mveraalbarenque@gmail.com)
 - **LinkedIn:** [mveraalbarenque](https://www.linkedin.com/in/mveraalbarenque)
+- **Slack:** [mveraalbarenque] (https://devmvera.slack.com/team/U07AFKFFP60)
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
