@@ -1,5 +1,4 @@
 ## <h2>¡Hi! I`m Marcos Vera 👋 </h2>
----
 
 ### Desarrollador de Sistemas
 
