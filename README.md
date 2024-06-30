@@ -57,6 +57,10 @@ With more than 10 years of experience in systems development, I specialize in cr
       <a href="https://es.vuejs.org/v2/guide/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="70" alt="Vue.js" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Vue.js</p>
     </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://es.vuejs.org/v2/guide/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" height="70" alt="jQuery" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">jQuery</p>
+    </td>          
   </tr>
 </table>
 
@@ -100,10 +104,6 @@ With more than 10 years of experience in systems development, I specialize in cr
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">GitHub</p>
     </td>
     <td style="text-align: center; width: 70px;">
-      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
-      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Saas</p>
-    </td>
-    <td style="text-align: center; width: 70px;">
       <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" /></a>
       <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Docker</p>
     </td>
@@ -113,6 +113,33 @@ With more than 10 years of experience in systems development, I specialize in cr
     </td>
   </tr>
 </table>
+
+### Styles
+<table style="width: 100%; table-layout: auto;">
+  <tr>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="70" alt="MUI" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">MUI</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.github.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="70" alt="BootStrap" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">BootStrap</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" height="70" alt="AntD" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">AntD</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="70" alt="TailWind" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">TailWind</p>
+    </td>
+    <td style="text-align: center; width: 70px;">
+      <a href="https://graphql.org/learn/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="70" alt="Saas" /></a>
+      <p style="background-color: black  !important; color: white !important; font-weight: bold; padding: 5px;">Saas</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
