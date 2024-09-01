@@ -1,4 +1,4 @@
-## <h2 style="text-align: center; height: 70px; background-color: black  !important; color: white !important;">¡Hi! I`m Marcos Vera 👋 </h2>
+## <h2 style="text-align: center; height: 70px; background-color: black  !important; color: white !important;">¡Hi! I`m Marcos 👋 </h2>
 
 ### System Developer.
 
