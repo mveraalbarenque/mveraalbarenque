@@ -146,6 +146,7 @@
 - **Email:** [mveraalbarenque@gmail.com](mailto:mveraalbarenque@gmail.com)
 - **LinkedIn:** [mveraalbarenque](https://www.linkedin.com/in/mveraalbarenque)
 - **Slack:** [mveraalbarenque] (https://devmvera.slack.com/team/U07AFKFFP60)
+- **Discord:** [mveraalbarenque] (https://discord.gg/5dJPT5kC)
 ---
 
 Thank you for visiting my profile! If you have any questions or want to collaborate on a project, don't hesitate to contact me.
