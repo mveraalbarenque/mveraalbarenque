@@ -12,7 +12,7 @@ Con más de 10 años de experiencia en desarrollo de sistemas, me especializo en
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nest.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=red" />
 </div>
 
 ### Frontend
