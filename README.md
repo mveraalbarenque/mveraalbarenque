@@ -1,16 +1,16 @@
-<table width="100%">
-  <tr>
-    <td align="center"><h2>¡Hola! Soy Marcos 👋</h2></td>
-    <td><img src="https://komarev.com/ghpvc/?username=mveraalbarenque&style=for-the-badge&color=58A6FF" alt="Profile Views" /></td>
-  </tr>
-</table>
+<div>
+<h2 align="center">¡Hola! Soy Marcos 👋</h2>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mveraalbarenque&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Sistemas;10%2B+a%C3%B1os+de+experiencia;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
   </a>
 </p>
-
+</div>
 ---
 
 ### 👨‍💻 Sobre mí
@@ -76,14 +76,14 @@ Soy un desarrollador de sistemas con más de **10 años de experiencia** creando
 
 ---
 
-<p align="center">
-  <i>"El código limpio no es solo el que funciona, sino el que otros pueden entender."</i>
-</p>
-
----
-
 ### 📫 Conéctate conmigo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mveraalbarenque@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mveraalbarenque)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mveraalbarenque)
+
+---
+
+<p align="center">
+  <i>"El código limpio no es solo el que funciona, sino el que otros pueden entender."</i>
+</p>
