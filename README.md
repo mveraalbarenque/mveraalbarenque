@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td align="center"><h2>¡Hola! Soy Marcos 👋</h2></td>
     <td><img src="https://komarev.com/ghpvc/?username=mveraalbarenque&style=for-the-badge&color=58A6FF" alt="Profile Views" /></td>
