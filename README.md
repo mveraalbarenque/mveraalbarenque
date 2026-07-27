@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un desarrollador de sistemas con más de **10 años de experiencia** creando soluciones escalables y eficientes. Me apasiona el desarrollo frontend y backend, y siempre estoy explorando nuevas tecnologías.
+Soy un desarrollador de sistemas con más de **10 años de experiencia** creando soluciones escalables y eficientes. Me apasiona el desarrollo frontend y backend...ademas de siempre estar explorando nuevas tecnologías.
 
 - 🔭 Actualmente trabajando con **Laravel, Nest.js y React**
 - 🌱 Aprendiendo sobre **arquitecturas modernas y mejores prácticas**
