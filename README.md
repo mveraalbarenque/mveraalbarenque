@@ -33,10 +33,10 @@ Soy un desarrollador de sistemas con más de **10 años de experiencia** creando
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mveraalbarenque&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mveraalbarenque&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mveraalbarenque&theme=dracula" alt="Stats" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mveraalbarenque&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mveraalbarenque&theme=dracula" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mveraalbarenque&theme=dracula&utcOffset=1" alt="Productive Time" />
 </div>
 ---
