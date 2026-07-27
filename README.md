@@ -54,10 +54,13 @@ Soy un desarrollador de sistemas con más de **10 años de experiencia** creando
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mveraalbarenque&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mveraalbarenque&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mveraalbarenque&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mveraalbarenque&theme=dracula" alt="Most Commit Language" />
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mveraalbarenque&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mveraalbarenque&theme=dracula&utcOffset=1" alt="Productive Time" />
+</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mveraalbarenque&theme=dracula" alt="GitHub Streak" />
 </div>
