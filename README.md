@@ -1,4 +1,3 @@
-<div>
 <h2 align="center">¡Hola! Soy Marcos 👋</h2>
 
 <p align="right">
@@ -10,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Sistemas;10%2B+a%C3%B1os+de+experiencia;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
   </a>
 </p>
-</div>
+
 ---
 
 ### 👨‍💻 Sobre mí
@@ -27,6 +26,12 @@ Soy un desarrollador de sistemas con más de **10 años de experiencia** creando
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mveraalbarenque&theme=dracula" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mveraalbarenque&theme=dracula" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mveraalbarenque&theme=dracula" alt="Most Commit Language" />
 </div>
@@ -34,10 +39,6 @@ Soy un desarrollador de sistemas con más de **10 años de experiencia** creando
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mveraalbarenque&theme=dracula" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mveraalbarenque&theme=dracula&utcOffset=1" alt="Productive Time" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mveraalbarenque&theme=dracula" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 🛠️ Stack Tecnológico
